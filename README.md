@@ -1,10 +1,10 @@
+
+<img width="1568" height="441" alt="image" src="https://github.com/user-attachments/assets/af939d42-26c2-4761-a493-1089982e8dc1" />
+
+
 <div align="center">
-<img width="1568" height="441" alt="image" src="https://github.com/user-attachments/assets/0f49daee-a42b-4458-a06d-31d1173ab2eb" />
 
 
-# Hi, I'm Shizheng Wen 👋
-
-**PhD student in AI & Applied Mathematics @ [ETH Zurich](https://ethz.ch)**
 
 [![Website](https://img.shields.io/badge/Website-shizheng--wen.github.io-4c7ef3?style=flat-square&logo=googlechrome&logoColor=white)](https://shizheng-wen.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shizheng--wen-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shizheng-wen-1599b0184/)
