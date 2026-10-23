@@ -1,4 +1,6 @@
 <div align="center">
+<img width="1568" height="441" alt="image" src="https://github.com/user-attachments/assets/0f49daee-a42b-4458-a06d-31d1173ab2eb" />
+
 
 # Hi, I'm Shizheng Wen 👋
 
